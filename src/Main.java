@@ -1,7 +1,7 @@
 /**
  * This is my driver method to show the outputs for the SortedSet and SortedsetUtils classes.
  *
- * @author: Bruck Negash,CIN: 305603706,CS-2013,Sections 03 & 04
+ * @author: Bruck Negash
  *
  */
 
