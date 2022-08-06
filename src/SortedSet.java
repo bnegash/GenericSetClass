@@ -5,11 +5,6 @@ import java.util.Arrays;
  * In this class, I used generics and lists to create a Generic Set class. A set is a data structure which does
  * not allow duplicate values.
  *
- *
- * <url>
- *  https://calstatela.instructuremedia.com/embed/a0e090da-b3ca-424d-aeee-ef96e684b26e
- *</url>
- *
  * @author: Bruck Negash
  *
  */
